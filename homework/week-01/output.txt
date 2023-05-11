@@ -1,0 +1,45 @@
+Array size: 1000000
+Number of processes: 8
+Time taken for serial merge sort: 4.788062810897827
+Time taken for parallel merge sort: 1.39747953414917
+
+Array size: 100000
+Number of processes: 8
+Time taken for serial merge sort: 0.4079418182373047
+Time taken for parallel merge sort: 0.26722145080566406
+
+Array size: 1000
+Number of processes: 8
+Time taken for serial merge sort: 0.002991199493408203
+Time taken for parallel merge sort: 0.17874622344970703
+
+Array size: 500000
+Number of processes: 8
+Time taken for serial merge sort: 2.334156036376953
+Time taken for parallel merge sort: 0.7849814891815186
+
+Array size: 10000000
+Number of processes: 8
+Time taken for serial merge sort: 59.13227963447571
+Time taken for parallel merge sort: 15.785915613174438
+
+Array size: 1000000
+Number of processes: 4
+Time taken for serial merge sort: 4.865174293518066
+Time taken for parallel merge sort: 1.5460374355316162
+
+Array size: 1000000
+Number of processes: 8
+Time taken for serial merge sort: 4.938967227935791
+Time taken for parallel merge sort: 1.5101230144500732
+
+Array size: 1000000
+Number of processes: 16
+Time taken for serial merge sort: 4.853711366653442
+Time taken for parallel merge sort: 1.645080327987671
+
+Array size: 10000000
+Number of processes: 8
+Time taken for serial merge sort: 57.825536012649536
+Time taken for parallel merge sort: 15.41314172744751
+
